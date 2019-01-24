@@ -1,4 +1,23 @@
-libcrashreporter-qt
+# This is abandoned
+
+
+Check out [qt-breakpad](https://github.com/karololszacki/qt-breakpad).
+
+It uses CMake instead of Qt's qmake, and is using latest breakpad.
+
+It also has a demo app that crashes itself.
+
+And it is actually checked on Linux and Windows. And it <b>just works<sup>tm</sup></b>.
+
+
+---
+---
+---
+---
+---
+
+
+##libcrashreporter-qt
 ===================
 
 This library is supposed to provide an easy integration of Google Breakpad crash reporting into a Qt application
